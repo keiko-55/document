@@ -24,7 +24,7 @@ brew install goenv
 3. goenvの設定を`.zshrc`ファイルに追加する
 
 ```
-vi -/ .zshrc
+vi ~/.zshrc
 ```
 
 
